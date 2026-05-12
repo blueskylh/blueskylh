@@ -24,8 +24,7 @@
 ### 📊 极客数据看板
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blueskylh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueskylh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blueskylh&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
 </div>
 
 <br/>
