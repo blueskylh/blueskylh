@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Bluesky%20%F0%9F%91%8B&fontSize=50&fontAlignY=38&desc=Vibe%20Coding%20Alchemist%20%7C%20Web3%20%26%20AI%20Builder&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Vibe%20Coding%20Alchemist&fontSize=40&animation=fadeIn)
 
 ### 🔮 探索链上数据与 AI 代理的无限可能
 我是一名独立开发者，专注于利用 AI 重构开发体验 (Vibe Coding)，并在 Web3 (RWA, DeFi, 链上数据) 领域打造实用的自动化工具与套利系统。
@@ -24,8 +24,8 @@
 ### 📊 极客数据看板
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blueskylh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueskylh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blueskylh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueskylh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="48%" />
 </div>
 
 <br/>
@@ -36,7 +36,7 @@
 ---
 
 ### 🚀 核心构建 (Current Focus)
-* 🔭 正在开发 **Renaiss 系列套利与做市商工具**。
+* 🔭 正在开发 **Renaiss 系列套利与做市商工具** (自动化连号扫描与价格监控)。
 * 🌱 深入研究 **本地大语言模型 (LLMs)** 与 **AI Agent** 的自动化工作流。
 * ⚡ 持续构建用于捕捉链上 Alpha 机会的自动化 Scanner。
 
